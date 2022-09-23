@@ -1,0 +1,29 @@
+
+a:hover{
+    color:black;
+}
+.container-fluid{
+    background-color:#E94560;
+
+}
+.nav-item{
+    color:white;
+}
+.nav-link{
+     color:white;
+     font-size: 35px;
+}
+.thekey{
+  background-color: #E94560;
+
+}
+.wts{
+  color:white;
+  font-family: ExtraLight 200 Italic;
+
+  text-align: justify;
+}
+.myphoto{
+  padding-bottom:30px;
+  padding-top:30px;
+}
